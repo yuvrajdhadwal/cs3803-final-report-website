@@ -23,6 +23,17 @@ All of the participants commented on the website’s outdated visual design and 
 
 These findings point to four main usability issues: a broken bulk ordering flow that requires secondary login, poor information architecture to navigate, a complex card purchasing and reloading process, and an outdated UI that discourages user’s navigating skill. We aimed to directly address these issues in our new design.
 
+<img src="img/average.png" alt="A bar graph of average task completion time of 8 tasks from five participants">
+
+<img src="img/number_errors.png" alt="A pie graph of number of errors participants made">
+
+<img src="img/frustrations.png" alt="A pie graph of percentage of frustrations participants felt performing the task">
+
+<img src="img/easiest_task.png" alt="A pie graph of percentage of easiest tasks participants rated">
+
+<img src="img/quotes.png" alt="a table of four quotes from four participants">
+
+
 ## Analysis
 
 One of the major issues with the breeze card website was bulk ordering. As seen in both Figure (BLANK) and Figure (BLANK), 33% of the most frustration was in task 4 as well as 57% of the errors. Having an entirely different login to bulk order was as one of the users put “not reasonable”. To fix this issue, we merged the 2 accounts, connecting the breeze card to the user, and when they were to sign in, they can see all the information about the card such as Balance, Remaining Trips, Remaining passes, and Expiration Date. Because in the initial website design, the purchasing of group orders was separate from buying for individuals, which led to a lot of confusion on the users' side, we decided to make it easier by merging the individual purchasing and the group purchasing. 
