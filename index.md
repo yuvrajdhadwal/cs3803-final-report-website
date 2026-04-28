@@ -1,3 +1,5 @@
+<img src="img/banner_page.png" alt="Banner image that shows the new design of the website">
+
 [Home](index.md) | [Data](data.md) | [Recommendation](recommendation.md)
 
 ---
