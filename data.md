@@ -4,7 +4,7 @@
 
 ---
 
-## Metadology
+## Methodology
 
 
 To test the usability of existing Breeze Card website, we conducted usability testing with five participants who had prior experience using MARTA’s transit system. Participants were recruited to reflect a range of familiarity with the website to capture first impression and reengagement experiences. Tests were conducted both in-person and virtually, with all interactions recorded via Microsoft Teams to allow for reviewing and analysis. 
