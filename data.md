@@ -23,16 +23,30 @@ All of the participants commented on the website’s outdated visual design and 
 
 These findings point to four main usability issues: a broken bulk ordering flow that requires secondary login, poor information architecture to navigate, a complex card purchasing and reloading process, and an outdated UI that discourages user’s navigating skill. We aimed to directly address these issues in our new design.
 
-<img src="img/average.png" alt="A bar graph of average task completion time of 8 tasks from five participants">
+<figure>
+  <img src="img/average.png" alt="A bar graph of average task completion time of 8 tasks from five participants">
+  <figcaption>Figure 1: Average Task Completion Time</figcaption>
+</figure>
 
-<img src="img/number_errors.png" alt="A pie graph of number of errors participants made">
+<figure>
+  <img src="img/number_errors.png" alt="A pie graph of number of errors participants made">
+  <figcaption>Figure 2: Number of Errors</figcaption>
+</figure>
 
-<img src="img/frustrations.png" alt="A pie graph of percentage of frustrations participants felt performing the task">
+<figure>
+  <img src="img/frustrations.png" alt="A pie graph of percentage of frustrations participants felt performing the task">
+  <figcaption>Figure 3: Frustraitons</figcaption>
+</figure>
 
-<img src="img/easiest_task.png" alt="A pie graph of percentage of easiest tasks participants rated">
+<figure>
+  <img src="img/easiest_task.png" alt="A pie graph of percentage of easiest tasks participants rated">
+  <figcaption>Figure 4: Easiest Task</figcaption>
+</figure>
 
-<img src="img/quotes.png" alt="a table of four quotes from four participants">
-
+<figure>
+  <img src="img/quotes.png" alt="a table of four quotes from four participants">
+  <figcaption>Figure 5: Quotes from Participants</figcaption>
+</figure>
 
 ## Analysis
 
